@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126395202303",
+    "firebase_url": "https://timelynoteapp.firebaseio.com",
+    "project_id": "timelynoteapp",
+    "storage_bucket": "timelynoteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126395202303:android:6e61d7ca2a246b55c66aca",
+        "android_client_info": {
+          "package_name": "com.example.timelynoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126395202303-5gehk815hdf0o4qj6u3ro5uo4gs4d463.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timelynoteapp",
+            "certificate_hash": "8a820382a442fe040d6db6012491c3e3f28d80ca"
+          }
+        },
+        {
+          "client_id": "126395202303-qsi3cr14egdqk08svsuintl7ik6pt38h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLtNyTUBYb5K_A7fd4iMbWBVZ6t2mQGmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126395202303-qsi3cr14egdqk08svsuintl7ik6pt38h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
